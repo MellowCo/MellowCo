@@ -6,7 +6,8 @@
     <img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
     <img alt="react" src="https://img.shields.io/badge/-react-blue?style=flat-square&logo=react&logoColor=61DAFB" />
     <img alt="flutter" src="https://img.shields.io/badge/-flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img alt="Vite" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
+    <img alt="WeChat" src="https://img.shields.io/badge/-Applet-07C160?style=flat-square&logo=WeChat&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
     <img alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="UnoCSS"
