@@ -28,12 +28,12 @@
 <p>
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-  <img alt="cicd" src="https://img.shields.io/badge/-cicd-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" />
 </p>
 
 **Analytics**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MellowCo.readme) [![wakatime](https://wakatime.com/badge/user/1947089f-810c-43f9-92f2-1f9cfad0e19c.svg)](https://wakatime.com/@1947089f-810c-43f9-92f2-1f9cfad0e19c)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MellowCo.readme&left_text=MyPageVisitors) [![wakatime](https://wakatime.com/badge/user/1947089f-810c-43f9-92f2-1f9cfad0e19c.svg)](https://wakatime.com/@1947089f-810c-43f9-92f2-1f9cfad0e19c)
 
 <img src="https://github-readme-stats.vercel.app/api?username=MellowCo&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21" />
 
