@@ -36,9 +36,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MellowCo.readme&left_text=MyPageVisitors) [![wakatime](https://wakatime.com/badge/user/1947089f-810c-43f9-92f2-1f9cfad0e19c.svg)](https://wakatime.com/@1947089f-810c-43f9-92f2-1f9cfad0e19c)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MellowCo&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21" />
+![](https://raw.githubusercontent.com/MellowCo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/MellowCo/github-stats-transparent/output/generated/languages.svg)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MellowCo&layout=compact&hide_title=true&hide_border=true&locale=cn&&hide=pawn,sourcepawn,nasl" />
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MellowCo) -->
 
