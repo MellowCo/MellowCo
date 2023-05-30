@@ -33,8 +33,8 @@
 </p>
 
 **Analytics**
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MellowCo.readme&left_text=MyPageVisitors) [![wakatime](https://wakatime.com/badge/user/1947089f-810c-43f9-92f2-1f9cfad0e19c.svg)](https://wakatime.com/@1947089f-810c-43f9-92f2-1f9cfad0e19c)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=MellowCo.readme&left_text=MyPageVisitors)  -->
+[![wakatime](https://wakatime.com/badge/user/1947089f-810c-43f9-92f2-1f9cfad0e19c.svg)](https://wakatime.com/@1947089f-810c-43f9-92f2-1f9cfad0e19c)
 
 ![](https://raw.githubusercontent.com/MellowCo/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/MellowCo/github-stats-transparent/output/generated/languages.svg)
